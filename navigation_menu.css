@@ -1,0 +1,29 @@
+@media (max-widith: 768px) {
+    nav ul {
+        display: block;
+        
+    }
+}
+nav li {
+    margin-right: 0%;
+    margin-bottom: 20px;
+}
+li {
+    float: left;
+}
+li a {
+    display: block;
+    padding: 10px 50px;
+    text-decoration: none;
+
+}
+li a:hover {
+    color: crimson;
+}
+ul {
+    display: block;
+    list-style: none;
+    background-color: violet;
+    overflow: hidden;
+    
+}
