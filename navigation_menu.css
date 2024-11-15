@@ -4,6 +4,9 @@
         
     }
 }
+body {
+    background-color: rgb(246, 233, 216);
+}
 nav li {
     margin-right: 0%;
     margin-bottom: 20px;
@@ -23,7 +26,11 @@ li a:hover {
 ul {
     display: block;
     list-style: none;
-    background-color: violet;
+    background-color: aqua;
     overflow: hidden;
     
+}
+input[type="text"] {
+    border-radius: 5px;
+
 }
