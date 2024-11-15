@@ -16,8 +16,9 @@ li {
 }
 li a {
     display: block;
-    padding: 10px 50px;
+    padding: 10px 65px;
     text-decoration: none;
+    margin-left: 0px;
 
 }
 li a:hover {
@@ -32,5 +33,15 @@ ul {
 }
 input[type="text"] {
     border-radius: 5px;
+    font-size: larger;
 
+}
+
+    
+.active {
+    background-color: darkcyan;
+    font-family: Georgia;
+    border-radius: 10px;
+    margin-top: 5px;
+    margin-left: 0px;
 }

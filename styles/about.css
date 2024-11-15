@@ -1,0 +1,12 @@
+body {
+    background-color: aquamarine;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+.about-section{
+    text-align: center;
+   font-family: Geneva; 
+   width: 500px;
+   margin-top: 50px;
+}
