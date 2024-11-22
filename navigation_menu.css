@@ -1,9 +1,16 @@
-@media (max-widith: 768px) {
+
+
+@media(max-width:768px){
     nav ul {
-        display: block;
-        
+        flex-direction: column;
+    }
+    nav li{
+        width: 100%;
+        padding: 10px;
     }
 }
+
+
 body {
     background-color: rgb(246, 233, 216);
 }
